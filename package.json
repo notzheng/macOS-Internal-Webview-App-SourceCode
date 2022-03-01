@@ -1,0 +1,15 @@
+{
+  "name": "macos-webview",
+  "version": "1.0.0",
+  "description": "### Family Sharing",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ./reverse/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "source-map": "^0.7.3"
+  }
+}
